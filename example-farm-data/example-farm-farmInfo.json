@@ -1,0 +1,47 @@
+{
+    "farmInfo": {
+        "farmId": "ex-farm01",
+        "uniqueCfFarmId": "ex-farm01-CF",
+        "farmName": null,
+        "farmManagerFirstName": "Marlene",
+        "farmManagerLastName": "Rimmert",
+        "landOwnerFirstName": null,
+        "landOwnerLastName": null,
+        "relationshipManagerOrOwner": "",
+        "email": "marlene@climatefarmers.org",
+        "farmSize": "23.64",
+        "address": "",
+        "postalCode": "",
+        "farmCoordinatesNorth": "38.5811098610307",
+        "farmCoordinatesEast": "-8.209816265622996",
+        "country": "Portugal",
+        "telephone": "+351939858934",
+        "creationDate": ""
+       },
+    "productivity_index": {
+        "year": [
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023
+        ],
+        "npp_index": [
+          108,
+          102,
+          102,
+          113,
+          97,
+          92
+        ],
+        "npp_total_kgC_ha": [
+          8130,
+          7711,
+          7490,
+          7363,
+          7010,
+          6981
+        ]
+      }
+}

@@ -1,0 +1,15 @@
+parcel_name,parcel_id,year,year_index,period,scenario,orgamendments_Cinputs,agroforestry_Cinputs,animal_Cinputs,crop_Cinputs,pasture_Cinputs,Cinputs_ha
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2018,-3,baseline,baseline,0,0,0.09866851,0,0.335294118,0.433962627
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2019,-2,baseline,baseline,0,0,0.09866851,0,0.335294118,0.433962627
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2020,-1,baseline,baseline,0,0,0.09866851,0,0.335294118,0.433962627
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2021,1,project,project,0.176,0,0.079765353,0,0.659820568,0.915585921
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2022,2,project,project,0,0,0.108308184,0,0.931338691,1.039646876
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2021,1,project,projected_baseline,0,0,0.09866851,0,0.335294118,0.433962627
+silvopasture_1,874da5c6-b120-412d-a4e5-b1f099fce5d3,2022,2,project,projected_baseline,0,0,0.09866851,0,0.335294118,0.433962627
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2018,-3,baseline,baseline,0,0,0.185003456,0.191666667,0,0.376670123
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2019,-2,baseline,baseline,0,0,0.185003456,0.191666667,0,0.376670123
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2020,-1,baseline,baseline,0,0,0.185003456,0.191666667,0,0.376670123
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2021,1,project,project,0,0,0.166177818,0,1.347970584,1.514148402
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2022,2,project,project,0,0,0.186154692,1.02668735,0,1.212842042
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2021,1,project,projected_baseline,0,0,0.185003456,0.191666667,0,0.376670123
+arablecrops_1,928f33c6-457d-4420-9c59-5ca1cfbbb4c6,2022,2,project,projected_baseline,0,0,0.185003456,0.191666667,0,0.376670123

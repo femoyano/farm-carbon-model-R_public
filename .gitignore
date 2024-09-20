@@ -1,0 +1,6 @@
+/.DS_Store
+/Dockerfile
+/logs
+/reporting
+/requirements.txt
+/translated_error_messages.csv
